@@ -57,3 +57,8 @@ Status kehadiran berdasarkan waktu
 Penyimpanan ke Excel dengan pewarnaan status
 
 Data wajah dapat ditambah atau dihapus langsung lewat GUI
+
+
+👤 Author
+
+Dibuat oleh Akhdan
